@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.5.2 (swiftlang-1300.0.47.5 clang-1300.0.29.30)"
+options: "8cc0c155274fc5a8440e442d9879246341d50abda1a909c85ed95f58600dbaff"
+build_start_time: [1646131875, 984501838]
+build_end_time: [1646131876, 72880983]
+inputs:
+  "/Users/amalia/Desktop/c4/cyphermweb/ios/Runner/AppDelegate.swift": !private [1644770273, 735882759]
